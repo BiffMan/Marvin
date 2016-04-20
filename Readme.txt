@@ -53,3 +53,8 @@ ASCII art from: http://chris.com/ascii/index.php?art=cartoons/warner%20bros
 
 Marvin is the highly configurable UI component of the Bitchin Instrumentation 
 Framework (BIFF) project.
+
+To compile, run:
+gradlew build
+
+Resulting Biff.Marvin.Jar will be in the release directory.
