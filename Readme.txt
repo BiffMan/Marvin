@@ -57,6 +57,6 @@ Framework (BIFF) project.
 To compile, run:
 gradlew build
 
-Resulting Biff.Marvin.Jar will be in the release directory. Copy this to where 
+Resulting Biff.Marvin.Jar will be in the build\libs directory. Copy this to where 
 you have your application setup - the .jar file should be at same location as
 the Widgets directory.
